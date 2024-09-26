@@ -1,0 +1,37 @@
+.card{
+    border-radius: 46px;
+background: #e0e0e0;
+color:black;
+             
+padding-left: 25px;
+margin-top: 100px;
+background-color: rgba(243, 248, 248, 0.452);
+
+}
+.form-control{
+    border-radius: 37px;
+background: #dcdada;
+box-shadow:  23px 23px 68px #797979,
+             -23px -23px 68px #ffffff;
+width:300px;
+height: 60px;
+}
+.btn{
+    border-radius: 37px;
+background: #5437ad;
+box-shadow:  23px 23px 68px #797979,
+             -23px -23px 68px #ffffff;
+margin-left: 10px;
+width:280px;
+    
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+    background-image: url(https://cdn.pixabay.com/photo/2016/09/05/18/49/plastic-card-1647376_640.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+
+}

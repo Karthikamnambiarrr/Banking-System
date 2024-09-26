@@ -1,0 +1,36 @@
+nav{
+    background-color: rgb(76, 76, 197);
+}
+#sec{
+    width:1400px;
+    height:600px;
+    margin-left: 200px;
+    margin-top:60px ;
+
+}
+#about1{
+    width:400px;
+    height:500px;
+    margin-left: 100px;
+    margin: 50px;
+    
+}
+
+#about2{
+    width:1000px;
+    height:500px;
+    font-size: 20px;
+    text-align: justify;
+    margin: 60px;
+    padding-top: 25px;
+    
+    padding: 30px;
+    margin-left: 200px;
+
+}
+#aimg{
+    height: 400px;
+    width:500px;
+    border-radius: 20%;
+    border: 5px solid rgb(76, 76, 197);;
+}

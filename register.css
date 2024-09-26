@@ -1,0 +1,34 @@
+.card{
+    border-radius: 46px;
+background: #e0e0e0da;
+
+padding-left: 25px;
+margin-top: 100px;
+background-color: rgba(219, 232, 243, 0.185);
+color: black;
+}
+.form-control{
+    border-radius: 37px;
+background: #dcdada;
+box-shadow:  23px 23px 68px #797979,
+             -23px -23px 68px #ffffff;
+width:300px;
+height: 60px;
+}
+.btn{
+    border-radius: 37px;
+background: #5437ad;
+box-shadow:  23px 23px 68px #797979,
+             -23px -23px 68px #ffffff;
+margin-left: 10px;
+width:280px;
+    
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://cdn.pixabay.com/photo/2015/07/19/13/33/credit-card-851506_640.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}

@@ -1,0 +1,63 @@
+#logo{
+    width:100px;
+    height:70px;
+}
+nav{
+    background-color: rgb(76, 76, 197);
+   
+}
+body{
+    
+    background-image: url(https://cdn.pixabay.com/photo/2017/08/07/19/45/ecommerce-2607114_1280.jpg);
+    background-repeat: no-repeat;
+    background-size:cover ;
+    
+}
+#heading{
+    width:1400px;
+    height:110px;
+    background-color: rgba(0, 0, 0, 0.266);
+    color: white;
+    text-align: center;
+    margin: 50px;
+    margin-left: 130px;
+    
+    
+
+}
+#main{
+    width:1400px;
+    height:400px;
+    
+    color: white;
+    text-align: center;
+    margin: 50px;
+    margin-left: 130px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.box{
+    width:500px;
+    height:380px;
+    margin:50px;
+    border:2px ridge black;
+    background-color: rgba(0, 0, 0, 0.266);
+    padding:20px;
+}
+input{
+    width:400px;
+    height:50px;
+    border-radius: 4%;
+    margin: 10px;
+    font-size: 25px;
+}
+button{
+    width:150px;
+    height:40px;
+    border-radius: 10%;
+    background-color: rgb(76, 76, 197);
+    font-size: 20px;
+    color:white;
+}
